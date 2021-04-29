@@ -1,0 +1,6 @@
+# Example app/auth config (used with example).
+/.gradle/
+/.idea/
+/*.app
+/*.auth
+*.db

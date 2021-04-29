@@ -1,0 +1,53 @@
+[33mcommit ea541ab89e3af2c084904e1aedaa565cdba222e7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sergey <latser@mail.ru>
+Date:   Wed Apr 28 19:41:28 2021 +0300
+
+    test.html changed
+
+[33mcommit b13d7130c150c4acf2003643d51e7d4d7011da3d[m
+Author: Sergey <latser@mail.ru>
+Date:   Wed Apr 28 19:38:00 2021 +0300
+
+    test.html added
+
+[33mcommit 272b16fd3058286a27c0becc3878f0d1f29a1d4f[m
+Author: Sergey <latser@mail.ru>
+Date:   Wed Apr 28 17:41:46 2021 +0300
+
+    styles renamed
+
+[33mcommit 59d9dadd79d290ca454ef21b5e716488b9be697f[m
+Author: Sergey <latser@mail.ru>
+Date:   Wed Apr 28 17:39:01 2021 +0300
+
+    test.html ignored
+
+[33mcommit 190989b359de7d74fe1e50cd93c8cc1d9d08bb57[m
+Author: Sergey <latser@mail.ru>
+Date:   Wed Apr 28 17:34:55 2021 +0300
+
+    gitignore added
+
+[33mcommit 688340d24648b746f35948dac2334f90b8837a95[m
+Author: Sergey <latser@mail.ru>
+Date:   Wed Apr 28 17:14:41 2021 +0300
+
+    doctype added
+
+[33mcommit 65e5d63665c586204613cbec63ea91a831c71769[m
+Author: Sergey <latser@mail.ru>
+Date:   Wed Apr 28 16:39:06 2021 +0300
+
+    added scripts, styles and test page
+
+[33mcommit 9a549c7822ada4efa75dc4c0e34e64b900eadb89[m
+Author: Sergey <latser@mail.ru>
+Date:   Wed Apr 28 13:34:19 2021 +0300
+
+    styles add
+
+[33mcommit 73c2486c44d4e12a0cb9598a22311697c0e00370[m
+Author: Sergey <latser@mail.ru>
+Date:   Wed Apr 28 13:04:58 2021 +0300
+
+    initial commit
